@@ -1,5 +1,3 @@
-
-
 #INSTAL·LACIÓ MOODLE
 
 A l'hora de fer l'instal·lació, hi hem de tenir una maquina amb LAMP (Linux, Apache, PHP y MySQL).
@@ -9,7 +7,7 @@ Abans de fer tot aixo per poder copiar del tutorial, ens unirem mijançant ssh a
 
 ![](1uniossh.png)
 
-Un cop feta la commanda,
+Un cop feta la commanda, ens demanara la contrasenya i l'usuari per a poder accedir a la maquina de manera remota.
 
 ##INSTAL·LACIÓ APACHE
 
