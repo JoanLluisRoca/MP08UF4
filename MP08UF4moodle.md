@@ -94,3 +94,16 @@ I ja abans de entrar al navegador i buscar per començar a configurar dins de la
 I ja un cop entrem al buscador, hi ens surtira aixo.
 
 ![](13començarconfiguracio.png)
+
+El primer que ens demana es que li diguessim l'idioma que hi volem. En aquest cas en catala.
+
+![](![image](https://user-images.githubusercontent.com/114162286/205091469-1cc10155-a2f9-4b7c-a919-dc3efa530918.png)
+
+Al fer seguen, ens sortira aixo.
+
+(![image](https://user-images.githubusercontent.com/114162286/205093338-26638d4d-600b-4bc8-a936-dec8b5e22182.png)
+
+
+Per instal·lar el curl, ja que ja hi tenim els repositoris, podem sercar el curl. I intal·lar la versio pertinyent del php curl.
+
+(![image](https://user-images.githubusercontent.com/114162286/205093179-36098097-83d1-4ee1-9727-3f378f9da98c.png)
