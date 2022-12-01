@@ -6,7 +6,7 @@ A l'hora de fer l'instal·lació, hi hem de tenir una maquina amb LAMP (Linux, A
 
 Un cop la tenim instal·lada, hi començem a ler l'instal·lació del apche. Abans de fer tot aixo per poder copiar del tutorial, ens unirem mijançant ssh a la MV a traves de la maquina real.
 
-![](https://github.com/JoanLluisRoca/MP08UF4/blob/main/1uniossh.png)
+![](1uniossh.png)
 
 ##INSTAL·LACIÓ APACHE
 
