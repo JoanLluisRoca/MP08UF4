@@ -4,9 +4,12 @@
 
 A l'hora de fer l'instal·lació, hi hem de tenir una maquina amb LAMP (Linux, Apache, PHP y MySQL).
 
-Un cop la tenim instal·lada, hi començem a ler l'instal·lació del apche. Abans de fer tot aixo per poder copiar del tutorial, ens unirem mijançant ssh a la MV a traves de la maquina real.
+Un cop la tenim instal·lada, hi començem a ler l'instal·lació del apche. 
+Abans de fer tot aixo per poder copiar del tutorial, ens unirem mijançant ssh a la MV a traves de la maquina real.
 
 ![](1uniossh.png)
+
+Un cop feta la commanda,
 
 ##INSTAL·LACIÓ APACHE
 
