@@ -1,4 +1,4 @@
-#INSTAL·LACIÓ MOODLE
+##INSTAL·LACIÓ MOODLE
 
 A l'hora de fer l'instal·lació, hi hem de tenir una maquina amb LAMP (Linux, Apache, PHP y MySQL).
 
