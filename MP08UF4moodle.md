@@ -1,4 +1,4 @@
-##INSTAL·LACIÓ MOODLE
+# INSTAL·LACIÓ MOODLE
 
 A l'hora de fer l'instal·lació, hi hem de tenir una maquina amb LAMP (Linux, Apache, PHP y MySQL).
 
@@ -11,7 +11,7 @@ Un cop feta la commanda, ens demanara la contrasenya i l'usuari per a poder acce
 
 ![](2queensdemana.png)
 
-##INSTAL·LACIÓ APACHE
+## INSTAL·LACIÓ APACHE
 
 Ara el primer que hi farem hi es instal·lar el apache2.
 
@@ -19,7 +19,7 @@ Ara el primer que hi farem hi es instal·lar el apache2.
 
 Un cop ho tenim, ja estaria. Ara anirem a instal·lar MariaDB.
 
-##INSTAL·LACIÓ MARIADB
+## INSTAL·LACIÓ MARIADB
 
 El primer que hi farem es instal·lar la base de dades de mariaDB amb la seguent comanda.
 
@@ -35,7 +35,7 @@ I si un cop fet volem accedir a la base de dades ho podem fer amb la seguent com
 
 Ara ja el que ens toca es instalar el php.
 
-##INSTAL·LACIÓ DEL PHP
+## INSTAL·LACIÓ DEL PHP
 
 El primer que hi farem es instal·lar les propietats del software.
 
@@ -67,7 +67,7 @@ Ara i reiniciarem i comprovarem l'estat d'apache2.
 
 Ara un cop finalitzat tot aixo i hem de anar a instal·lar la versio que necessitem del moodle.
 
-##INSTAL·LACIÓ MOODLE
+## INSTAL·LACIÓ MOODLE
 
 Per instal·lar el moodle, hi entrem a la seva pagina web dins de descargas i buscarem la versio que volem. hi entrarem i ademes de descargar el zip,
 hi hem de copiar l'enllaç a la descarga.
