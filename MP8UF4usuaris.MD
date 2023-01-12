@@ -27,3 +27,22 @@ Els usuaris a crear.
 ### Un professor No editor anomenat Cognom_3_profe.
 ![3](https://user-images.githubusercontent.com/114162286/212103629-cb38754d-e919-4bd4-83ab-3d48a4d75cd5.png)
 ![3](https://user-images.githubusercontent.com/114162286/212104622-e729b007-8219-47a0-a002-f319a2648668.png)
+
+### Crea un alumne anomenat Cognom_1_alumne.
+![1](https://user-images.githubusercontent.com/114162286/212105933-688f5cf3-0bc5-46ea-bbc9-0939d2e1ccd6.png)
+![2](https://user-images.githubusercontent.com/114162286/212105946-f1f5e369-223a-4ded-843c-43e915c1d7b4.png)
+
+### Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
+Crearem el arxiu CSV.
+![6](https://user-images.githubusercontent.com/114162286/212108320-af6881b6-80d8-4e92-80c9-d2419901a0bf.png)
+
+Ara carregarem els usuaris al moodle amb el delimitador ",".
+![1](https://user-images.githubusercontent.com/114162286/212110459-5b6f3947-2b1b-40d3-bb4c-c7103aad41b4.png)
+
+Previtzualitzador:
+![2](https://user-images.githubusercontent.com/114162286/212110532-f8945ad4-17d9-4de1-aca1-6665b824ff22.png)
+
+Resultat final:
+![4](https://user-images.githubusercontent.com/114162286/212110584-4c68bd69-f282-4490-8bda-79f8b7415f0b.png)
+
