@@ -97,3 +97,23 @@ Els grups son un conjunt d'alumnes.
 Serveix per donar-li uns permissos determinats o dividi un grup en diferents grups: A,B o C.
 
 ### Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+Accedim dins al curs que hi volem.
+![1](https://user-images.githubusercontent.com/114162286/213469056-baff13ab-d82f-43f0-aad9-5233281fbda0.png)
+
+Anem a l'apartat participants, I al principi del tot ens deixa decidir que volem fer.
+![2](https://user-images.githubusercontent.com/114162286/213469365-fca5eed5-d546-4f7e-bf4e-dd6542270ffd.png)
+
+Creem els grups. A i B.
+![1](https://user-images.githubusercontent.com/114162286/213469853-6cc172d9-2303-4efd-afda-6c417197ad59.png)
+![2](https://user-images.githubusercontent.com/114162286/213469871-35dcd6b6-43eb-461e-a991-db81e7a403fe.png)
+
+Afegim usuaris al grup A i B.
+A:
+![1](https://user-images.githubusercontent.com/114162286/213470295-493eb0d2-dd8d-458f-98d7-34d9e8fec086.png)
+![2](https://user-images.githubusercontent.com/114162286/213470321-88fcc504-9da6-4fe8-b138-078abe3340eb.png)
+B:
+![2](https://user-images.githubusercontent.com/114162286/213470659-71a2d50d-7bfa-44d0-998d-47943be55cfe.png)
+
+I ja els tenim en grups:
+![3](https://user-images.githubusercontent.com/114162286/213470708-d4bf4b3d-cdfb-49f6-90e8-352f89aba7d2.png)
+
