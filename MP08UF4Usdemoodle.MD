@@ -101,10 +101,36 @@ Afegim un nou forum.
 Li assignem el nom.
 ![3](https://user-images.githubusercontent.com/114162286/213483088-09d98c5d-9976-44bb-becc-e698b85ebfd2.png)
 
+I ja els tindrem creats. tindrem el del principi i el nou forum.
+![4](https://user-images.githubusercontent.com/114162286/213483537-6a15c905-73a1-43a6-a045-5b46c4e9b300.png)
+
 ### · Fes que dos estudiants fassin consultes al fòrum.
+Accedim desde uns alumnes al moodle. I anem al curs de Python.
+![1](https://user-images.githubusercontent.com/114162286/213484652-44b577f2-f562-4df5-a068-7726e206e5fa.png)
+
+Accedim al forum i ens subscribim.
+![2](https://user-images.githubusercontent.com/114162286/213484772-604cafad-d615-4d10-a20e-9b859b6e0ae7.png)
+
+I posem el nostre tema de debat/dubte.
+![3](https://user-images.githubusercontent.com/114162286/213484880-c67f106c-2343-4522-b599-cb9ca10d1e45.png)
+
+Ara amb l'altre usuari.
+![1](https://user-images.githubusercontent.com/114162286/213485300-4cccc4af-8640-4d92-bdb4-e36a3974b9ff.png)
+
 ### · Contesta les preguntes amb un perfil de professor.
+Accedirem amb un perfil de professor.
+I respondrem al forum.
+![1](https://user-images.githubusercontent.com/114162286/213487141-04194bbe-6ca2-42bf-9a2a-9b87c5108e06.png)
+![2](https://user-images.githubusercontent.com/114162286/213487152-a7667990-178e-4173-b857-bb1a932efdb0.png)
+
 ### · Crea un tema anomenat "Fonaments de Python".
+Creem el tema amb un usuari professor.
+![1](https://user-images.githubusercontent.com/114162286/213487872-3d0bb18a-4ee1-4b29-ae42-117041c782e0.png)
+
 ### · Oculta la resta de temes del curs.
+Ocultem un altre tema creat per als alumnes.
+![2](https://user-images.githubusercontent.com/114162286/213488145-83ae5b85-13b5-41ae-b8d0-6d180c3dac6d.png)
+
 ### · Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
 ### · Fes que els alumnes contestin la tasca (mínim 3).
 ### · Qualifica la tasca de l'alumnat.
