@@ -239,5 +239,14 @@ Descarregrem el tema amb zip.
 Arxiu.
 ![2](https://user-images.githubusercontent.com/114162286/214077662-f0ad2a32-f729-49ba-8461-1e728038b4ad.png)
 
+Con no se enviar-ho cap a la maquina ni descarregaro ja que no recordo, canviare per un dels temes que ja hi ha.
+![1](https://user-images.githubusercontent.com/114162286/214080040-aec4be5a-af62-4631-8ae1-a81adbe6ad70.png)
 
+Anem a selector de temes.
+![2](https://user-images.githubusercontent.com/114162286/214080123-553ec0a2-72f3-4ea0-9531-b50be8690022.png)
 
+Busquem el tema i l'utilitzem
+![3](https://user-images.githubusercontent.com/114162286/214080402-2a9c0651-8847-46a3-831a-bf7ddd7df8d7.png)
+
+I fem continuar.
+![4](https://user-images.githubusercontent.com/114162286/214080413-20620ebb-743c-4a16-bf07-f06eb2b8901e.png)
