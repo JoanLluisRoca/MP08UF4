@@ -180,4 +180,54 @@ Resposta a professor.
 ![2](https://user-images.githubusercontent.com/114162286/214064249-8c9652f2-07f5-471b-b15b-75685cba79ba.png)
 
 
+## Seguretat del lloc:
+
+### Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho així.
+Bloquej a administrador del lloc i a Seguretat.
+![1](https://user-images.githubusercontent.com/114162286/214064922-b4d5914b-5883-4ad5-9e00-8ce0b5f10bc3.png)
+
+### Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
+- Tinguin mínim 10 caràcters.
+- Tinguin 2 dígits.
+- Tinguin 3 maiúscules.
+![1](https://user-images.githubusercontent.com/114162286/214065665-e51afdce-676a-4b81-8e91-62a3b28f182b.png)
+
+## Plugins:
+### Instal·la 2 plugins de Moodle i explica què fan.
+El primer plugin hi es per poder vincular el joomla amb el moodle.
+![1](https://user-images.githubusercontent.com/114162286/214070930-b2f33c9f-4d7b-406d-91a0-a3f7ca706a97.png)
+
+I el segon es per tenir una Inteligencia artificial per parlar i fer preguntes.
+![2](https://user-images.githubusercontent.com/114162286/214071451-f53c3310-0bfb-47ba-832e-de495529e818.png)
+
+El pujem.
+![3](https://user-images.githubusercontent.com/114162286/214071572-87e3f3d5-d0ee-4dd5-a4a0-c9965ad0644d.png)
+
+Ens dona un error.
+![4](https://user-images.githubusercontent.com/114162286/214071618-8401e2b8-b023-45e5-9820-9a3f8bfdede4.png)
+
+Per arreglar-ho hem de donar permisos.
+![5](https://user-images.githubusercontent.com/114162286/214071675-a1f84bcd-d4fe-43df-8010-5f6a3be8807d.png)
+
+Un cop fet ja podem fer continuar per instal·lar.
+![6](https://user-images.githubusercontent.com/114162286/214072148-d94c858b-d191-4d8a-9f04-3b09f79d38df.png)
+![7](https://user-images.githubusercontent.com/114162286/214072163-2df11029-cad7-48f9-9fa8-e856db7685d3.png)
+
+Ara un cop instalat, ens demanara revisar, habilitar els nous canvis, per als dos complements.
+![1](https://user-images.githubusercontent.com/114162286/214073362-c98a1757-65f0-409a-95e1-321a8733388f.png)
+![2](https://user-images.githubusercontent.com/114162286/214073372-777bed1a-f482-4d49-89e6-9df7eb05e397.png)
+
+## Personalització del tauler d'usuaris:
+Anem al administrador de lloc, i anem a aparença.
+![1](https://user-images.githubusercontent.com/114162286/214073835-39e0652b-f2a6-46fe-aa61-87117d184c78.png)
+
+### Canvia el tauler d'usuaris.
+- Afegeix a dalt de tot "Cursos visitats recentment".
+- Afegeix a baix de tot "Usuaris en línia".
+Anem a la pagina d'inici en mode editor i afegim el que hi volem.
+![1](https://user-images.githubusercontent.com/114162286/214074546-5cf0dc9e-be54-44ae-8c9c-98471ade64df.png)
+
+Aixi i quedaria.
+![2](https://user-images.githubusercontent.com/114162286/214074586-ff260a66-027c-4280-8998-5dab2c6b39bf.png)
+
 
