@@ -230,4 +230,14 @@ Anem a la pagina d'inici en mode editor i afegim el que hi volem.
 Aixi i quedaria.
 ![2](https://user-images.githubusercontent.com/114162286/214074586-ff260a66-027c-4280-8998-5dab2c6b39bf.png)
 
+## Canvia el tema del Moodle:
+### Vigila que sigui un tema suportat per la teva versió de Moodle:
+### Pàgina amb temes. Com canviar el tema.
+Descarregrem el tema amb zip.
+![1](https://user-images.githubusercontent.com/114162286/214077639-3a952d28-982d-480c-949c-619e0ef49d40.png)
+
+Arxiu.
+![2](https://user-images.githubusercontent.com/114162286/214077662-f0ad2a32-f729-49ba-8461-1e728038b4ad.png)
+
+
 
