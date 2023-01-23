@@ -132,12 +132,52 @@ Ocultem un altre tema creat per als alumnes.
 ![2](https://user-images.githubusercontent.com/114162286/213488145-83ae5b85-13b5-41ae-b8d0-6d180c3dac6d.png)
 
 ### · Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info aqui.
+Creem la tasca.
+![1](https://user-images.githubusercontent.com/114162286/214060489-8bcab979-9f90-4b73-b962-7f6a6364212b.png)
+
+Anem al banc de preguntes i les creem.
+![2](https://user-images.githubusercontent.com/114162286/214060555-36232f71-6c45-421c-a87f-2d7e6b0d4a47.png)
+
+Afegim les preguntes al questionari.
+![3](https://user-images.githubusercontent.com/114162286/214060648-5b332653-a993-40ad-8426-2e623da38c94.png)
+
+Resultat, i guardem.
+![4](https://user-images.githubusercontent.com/114162286/214060707-6ecadb9e-2af8-45b4-ba53-5571740a91e5.png)
+
 ### · Fes que els alumnes contestin la tasca (mínim 3).
+3 Alumnes responen.
+Alumne1:
+![1](https://user-images.githubusercontent.com/114162286/214062302-5a8bef99-bc05-4828-8082-fff2dcd5c47f.png)
+
+Alumne2:
+![2](https://user-images.githubusercontent.com/114162286/214062333-8653a234-1889-434b-809d-f0c893d32884.png)
+
+Alumne3:
+![3](https://user-images.githubusercontent.com/114162286/214062373-affd1eca-7e1b-41d4-96cb-8512ad8d26bf.png)
+
 ### · Qualifica la tasca de l'alumnat.
+Esta qualificada automaticamen.
+![1](https://user-images.githubusercontent.com/114162286/214062675-79536e09-e6b5-4d6d-924d-09b206f3f766.png)
+
 ### · Mostra les qualificacions de l'alumnat.
+Perfil de l'alumnat.
+![1](https://user-images.githubusercontent.com/114162286/214062822-81211de9-d486-47ae-95a1-e05df19e9a25.png)
+
 ### · Com a perfil d'alumne mostra la teva qualificació.
+Mostra qualificació.
+![1](https://user-images.githubusercontent.com/114162286/214063078-d73a8615-2585-4aa0-abc7-fbfe42580b8b.png)
+
 ### · Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+Consulta:
+![1](https://user-images.githubusercontent.com/114162286/214063781-e2c246c2-ee72-4a7b-83a4-6ebb192de681.png)
+
 ### · Com a alumne/a contesta la consulta.
+Respionen consulta:
+![1](https://user-images.githubusercontent.com/114162286/214064214-d54abf5b-7b8f-4b1f-9d6d-d01542cdfed9.png)
+
 ### · Com a professor mostra les contestacions de la consulta.
+Resposta a professor.
+![2](https://user-images.githubusercontent.com/114162286/214064249-8c9652f2-07f5-471b-b15b-75685cba79ba.png)
+
 
 
